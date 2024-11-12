@@ -31,13 +31,12 @@ This project aims to perform sentiment analysis on user-generated comments using
 
  (2) Run the preprocessing script to clean and preprocess the data.
  
- (3) Extract features from the preprocessed data using techniques like bag-of-words .
+ (3) Extract features from the preprocessed data using techniques like TF-IDF .
    
  (4) Train the Naive Bayes model on the extracted features.
 
  (5) Evaluate the model's performance using evaluation metrics.
-    
-  (6) Deploy the trained model into an application or system for real-time sentiment analysis.
+
 ## Contributing 
  - Contributions are welcome! Please follow these guidelines:
 
